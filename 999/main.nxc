@@ -1,0 +1,4 @@
+# 999
+
+onTick  move x 0.45
+onTick  spin z 0.85
