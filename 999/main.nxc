@@ -1,4 +1,5 @@
 # 999
 
-onTick  move x 0.45
-onTick  spin z 0.85
+onTick  spin y 0.6
+onTick  bounce 0.45 2.9
+onTouch message *Makes Cute noises
