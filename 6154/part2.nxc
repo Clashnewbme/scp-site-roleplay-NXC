@@ -1,0 +1,4 @@
+#Scripted part 33
+
+onTick  spin x 0.5
+onTick  spin z 0.5
